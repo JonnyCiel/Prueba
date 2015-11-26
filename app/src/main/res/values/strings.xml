@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pronto</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_movie">Películas</string>
+    <string name="title_activity_reminder">Recordatorio</string>
+    <string name="title_activity_todo">Todo</string>
+    <string name="title_activity_drawing">Dibujos</string>
+    <string name="title_activity_notepad">Bloc de notas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_notepad">Bloc de notas</string>
+    <string name="label_todo">Todo</string>
+    <string name="label_drawing">Dibujos</string>
+    <string name="label_reminder">Recordatorio</string>
+    <string name="label_movies">Películas</string>
+    <string name="label_settings">Configuración</string>
+</resources>
